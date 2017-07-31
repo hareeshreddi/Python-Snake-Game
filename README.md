@@ -1,2 +1,2 @@
 # Python-Snake-Game
-Will be able to create your own snake game with Pygame in Python.Graphics and Co-Ordinate systems and more game theory were covered.Used Pygame Module.
+Will be able to play Snake Game after running the script which is made using Pygame module.Took care of Graphics and Co-Ordinate systems and Player can see his Score.
